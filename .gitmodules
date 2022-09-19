@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "domir"]
-	path = domir
-	url = https://github.com/jluchman/domir
-	shallow = true
-	registered = true
